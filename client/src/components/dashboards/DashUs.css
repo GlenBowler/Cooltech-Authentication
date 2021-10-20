@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+}
+table{
+    width: 90%;
+    margin: auto;
+}
+th,td{
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+}
+body{
+    background-color: #BFC4C1;
+}
